@@ -1,0 +1,17 @@
+npm init set up daldety hy for packages
+
+har packages me npm oinstall karty hy 
+
+npm k andr sab kuch hoty hy
+
+nodemon:  har dafa run nahi karna pary ga direct regfresh
+kardy gy
+
+
+TASK:
+personalizing the chat app
+
+login registration
+
+online status
+

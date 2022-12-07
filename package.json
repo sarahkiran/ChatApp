@@ -9,7 +9,7 @@
   "author": "MWF",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "query-string": "^6.9.0",
     "socket.io": "^2.3.0"
   },
